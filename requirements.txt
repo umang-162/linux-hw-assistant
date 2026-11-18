@@ -1,0 +1,5 @@
+# Linux Hardware Q&A Assistant — 100% free / open-source dependencies only.
+# The same `openai` SDK talks to Groq's free cloud API AND to a local Ollama server.
+openai>=1.40.0,<4.0.0
+rich>=13.7.0
+python-dotenv>=1.0.0
